@@ -1,11 +1,5 @@
 
 
-Created by: Mihai Stefan
-
-I have created a video for how to install and test the program,
-see the private video:
-
-
 1) Unzip the .ZIP file
 
 2) Import into IntelliJ as an existing project
@@ -21,7 +15,7 @@ http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 
 7) Now you can test via swagger
 
-8) Installation and Test, the link is not public  ( Select 1080p )
+
     
     
 
