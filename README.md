@@ -10,7 +10,8 @@ Must be in pence, so 50 pounds is 5000 pence (Example: 50122), with an ID for th
 (Example: "UUID_1"). The URLs used will be appropriate to the call/actions
 
 
-Output
+Output:
+
 JSON responses that shows the following:
 {
 "penceSubmitted": 50122,
